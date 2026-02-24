@@ -3,4 +3,4 @@ My first Git change
 
 ## Learning Git
 
-This project is used to practice Git workflow.
+This project is used to practice Git workflow (branching, PRs, merges).
