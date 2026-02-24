@@ -3,3 +3,7 @@
 node_modules
 bin
 obj
+
+# .NET build output
+**/bin/
+**/obj/
