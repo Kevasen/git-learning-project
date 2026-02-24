@@ -5,3 +5,6 @@ My first Git change
 
 This project is used to practice Git workflow (commits, pushing/pulling, branching, PRs, merges).
 
+## Project Goal
+
+Learn professional Git workflow.
